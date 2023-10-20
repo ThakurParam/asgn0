@@ -17,7 +17,7 @@ function TodoLists () {
 
   return (
     <div>
-      <h2>My To-Do List:</h2>
+      <h2>My  List:</h2>
       <TodoList todos={todoItems} />
     </div>
   );

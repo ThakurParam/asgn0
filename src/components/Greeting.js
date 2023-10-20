@@ -15,5 +15,3 @@ export default Greeting;
 
 
 
-
-{/* <Greeting name='john'/> */}
